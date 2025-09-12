@@ -29,15 +29,15 @@ Success Criteria - (Cost optimization and time save)
 
 2. Stakeholders :-
 
-      -Sales Director
+   Sales Director
 
-      -Marketing Team
+   Marketing Team
 
-      -Customer Service Team
+   Customer Service Team
 
-      -Data and Analytics Team
+   Data and Analytics Team
 
-      -IT
+   IT
 
 3. End result :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
