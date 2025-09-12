@@ -12,6 +12,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 ## Data Discovery :
 
 ## Project Planning using AIMS Grid -
+
 It is a project management tool which consists of four components-
 Purpose - (What to do exactly)
 Stackholder - (Who will be involved)
@@ -19,9 +20,11 @@ End result - (What do you want to achieve)
 Success Criteria - (Cost optimization and time save)
 
 # AIMS Grid -
+
 1. Purpose :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
 2. Stakeholders :-
+
 -Sales Director
 
 -Marketing Team
