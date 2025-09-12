@@ -37,7 +37,7 @@ It is a project management tool which consists of four components-
 
       -Data and Analytics Team
 
--IT
+      -IT
 
 3. End result :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
