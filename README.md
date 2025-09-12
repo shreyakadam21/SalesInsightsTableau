@@ -14,9 +14,13 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 ## Project Planning using AIMS Grid -
 
 It is a project management tool which consists of four components-
+
 Purpose - (What to do exactly)
+
 Stackholder - (Who will be involved)
+
 End result - (What do you want to achieve)
+
 Success Criteria - (Cost optimization and time save)
 
 # AIMS Grid -
@@ -25,13 +29,13 @@ Success Criteria - (Cost optimization and time save)
 
 2. Stakeholders :-
 
--Sales Director
+      -Sales Director
 
--Marketing Team
+      -Marketing Team
 
--Customer Service Team
+      -Customer Service Team
 
--Data and Analytics Team
+      -Data and Analytics Team
 
 -IT
 
@@ -39,8 +43,8 @@ Success Criteria - (Cost optimization and time save)
 
 4. Success Criteria :-
 
-Dashboard uncovering sales order insights with latest data available
+    Dashboard uncovering sales order insights with latest data available
 
-Sales team able to take better decisions and prove 10% cost saving of total spend.
+    Sales team able to take better decisions and prove 10% cost saving of total spend.
 
-Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+    Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
