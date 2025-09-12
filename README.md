@@ -15,13 +15,13 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 
 It is a project management tool which consists of four components-
 
-Purpose - (What to do exactly)
+      -Purpose - (What to do exactly)
 
-Stackholder - (Who will be involved)
+      -Stackholder - (Who will be involved)
 
-End result - (What do you want to achieve)
+      -End result - (What do you want to achieve)
 
-Success Criteria - (Cost optimization and time save)
+      -Success Criteria - (Cost optimization and time save)
 
 # AIMS Grid -
 
