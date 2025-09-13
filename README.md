@@ -1,5 +1,14 @@
 # Sales Insights Data Analysis Project
 
+# Sales insights-
+
+Profit Analysis
+https://public.tableau.com/views/sales_insights_17575680992580/Dashboard-ProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Revenue Analysis
+https://public.tableau.com/views/sales_insights_17575680992580/Dashboard-RevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Problem Statement :
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project.
 
