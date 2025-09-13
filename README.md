@@ -51,10 +51,11 @@ Success Criteria - (Cost optimization and time save)
 
 Snapshots-
 
+Revenue Analysis-
+
 <img width="1656" height="712" alt="Screenshot 2025-09-13 160229" src="https://github.com/user-attachments/assets/ad608ee2-1f2c-4507-93c6-aedf3c8506fa" />
 
-
-<img width="1270" height="712" alt="Screenshot 2025-09-13 161024" src="https://github.com/user-attachments/assets/2a9e31e8-b7db-48ef-bf0d-2e5bfe29fdd0" />
+Profit Analysis
 
 <img width="1305" height="699" alt="Screenshot 2025-09-13 161036" src="https://github.com/user-attachments/assets/0240fbb3-b979-4f93-9c93-7880cee6eebf" />
 
