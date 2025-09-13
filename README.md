@@ -48,3 +48,10 @@ Success Criteria - (Cost optimization and time save)
     Sales team able to take better decisions and prove 10% cost saving of total spend.
 
     Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+
+Snapshots-
+
+<img width="1270" height="712" alt="Screenshot 2025-09-13 161024" src="https://github.com/user-attachments/assets/2a9e31e8-b7db-48ef-bf0d-2e5bfe29fdd0" />
+
+<img width="1305" height="699" alt="Screenshot 2025-09-13 161036" src="https://github.com/user-attachments/assets/0240fbb3-b979-4f93-9c93-7880cee6eebf" />
+
